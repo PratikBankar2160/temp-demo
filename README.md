@@ -1,4 +1,10 @@
 # temp-demo
 first repo..
 <br>
-Hello pratik.!
+Hello pratik bankar.!
+
+# teacher
+shrdha
+
+# student 
+me
